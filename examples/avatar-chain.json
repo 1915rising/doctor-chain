@@ -1,0 +1,1 @@
+{"input":"avatar.fbx","name":"avatar-preflight","stages":[{"tool":"ripdoctor"},{"enabled":false,"tool":"cleanup"},{"options":{"create_missing":true,"fix":true,"preset":"japanese_vrc"},"tool":"viseme"},{"options":{"mode":"direction-normal","scale":0.05},"tool":"orient"},{"options":{"export_scale":1000},"tool":"stl"}]}

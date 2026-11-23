@@ -1,0 +1,1 @@
+{"input":"generator_raw.glb","name":"generator-cleanup","stages":[{"enabled":false,"tool":"ripdoctor"},{"options":{"target_tris":25000,"voxel_size":0.006},"tool":"cleanup"},{"options":{"fix":false},"tool":"viseme"},{"options":{"mode":"direction-normal","scale":0.05},"tool":"orient"},{"options":{"export_scale":1000},"tool":"stl"}]}

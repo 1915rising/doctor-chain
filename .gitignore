@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Chain output (the samples under examples/ are committed on purpose)
+*-chain-out/
+chain-report.json
+chain-report.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
